@@ -1,0 +1,8 @@
+{
+  "name": "chosen-package",
+  "description": "Chosen is a library for making long, unwieldy select boxes more friendly.",
+  "homepage": "http://harvesthq.github.io/chosen/",
+  "author": "harvest <http://getharvest.com>",
+  "version": "0.11.1",
+  "git": ""
+}
